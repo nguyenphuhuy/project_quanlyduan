@@ -1,0 +1,29 @@
+#customize-controls .control-section-educationweb .accordion-section-title:hover,
+#customize-controls .control-section-educationweb .accordion-section-title:focus {
+  background-color: #fff;
+}
+
+.rtl .control-section-educationwebdoc .accordion-section-title .button {
+  	float: left;
+    margin-right: 0;
+    margin-left: 8px;
+}
+
+#accordion-section-educationweb .accordion-section-title .button {
+    height: 40px;
+    line-height: 38px;
+    text-transform: uppercase;
+    padding: 0 10px 0;
+}
+
+#accordion-section-educationweb .accordion-section-title:before{
+    content: '';
+}
+
+#accordion-section-educationwebdoc .accordion-section-title .button {
+    float: right;
+}
+
+.rtl #accordion-section-educationwebdoc .accordion-section-title .button {
+    float: left;
+}

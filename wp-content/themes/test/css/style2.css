@@ -1,0 +1,168 @@
+.container {
+    max-width: 1300px !important;
+}
+.head_a a,.head_a span{
+	color: #808284;
+	
+}
+.head_a{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+.head_a a{
+	text-decoration: none;
+}
+.form_kqtt p{
+	font-size: 90%;
+}
+.form_kqtt .btn:hover{
+	background-color: #b5032f !important;
+}
+.form_kqtt .btn{
+	background-color: #002147!important;
+}
+.form_kqtt .table td{
+	font-size: 86%;
+	font-weight: bold;
+}
+.phai_dkxt ul li{
+	list-style-type: circle;
+}
+.phai_dkxt ul li a{
+	font-size: 88%;
+	color: black;
+}
+.phai_dkxt ul li:hover a{
+	text-decoration: none;
+
+}
+/* tuýeninh */
+.tuyensinh .tieude{
+	margin-top: 1rem;
+	font-weight: bold;
+}
+.tuyensinh .tieude a{
+	color: black;
+	text-decoration: none;
+}
+.tuyensinh .tieude a:hover{
+	color: #337ab7;
+}
+.tuyensinh .time {
+	font-size: 82%;
+	margin-bottom: 0.5rem;
+}
+.tuyensinh .time span{
+	font-weight: 700;
+}
+.tuyensinh .div{
+	width: 100%;
+	padding: 0;
+	padding-bottom: 1rem;
+	border-bottom: 1px solid #f2dbdb;
+}
+.tuyensinh .div .main a{
+	text-decoration: none;
+	color: black;
+}
+
+.tuyensinh h3{
+	color: #002147 !important;
+	font-size: 125%;
+}
+.tuyensinh .phai li{
+	width: 100%;
+	border-bottom: 1px solid #f2dbdb;
+	padding-top: 0.4rem;
+	padding-bottom: 0.4rem;
+}
+.tuyensinh .phai li a{
+	text-decoration: none;
+	font-size: 85%;
+	color: black;
+	
+}
+/* dao tao */
+.col-md-8 h3,.col-md-8 h4{
+	color: #002147;
+}
+.daotao table,.daotao tr,.daotao td{
+	border: 1px solid black;
+	border-collapse: collapse !important;
+	padding: 1.2rem;
+}
+.daotao .col-md-8 table{
+	width: 100%;
+}
+.daotao .col-md-8 table .trai{
+	width: 35%;
+}
+
+.daotao .col-md-8 .trai{
+	font-weight: bold;
+
+}
+.daotao h5,.daotao td{
+	font-size: 85%;
+}
+.daotao ul li a{
+	color: black;
+	text-decoration: none;
+}
+.daotao ul li{
+	border-bottom: 1px solid #f2dbdb;
+	padding: 5px 3px;
+}
+/* nghien cuu */
+.nghiencuu h5{
+	font-size: 85%;
+}
+.nghiencuu .xanh{
+	padding: 1rem;
+	background-color: #002147;
+}
+.hidden{
+	display: none;
+}
+.nghiencuu table .trai{
+	width: 70%;
+
+}
+.nghiencuu table td{
+	font-size: 88%;
+	padding-left: 1rem;
+}
+.nghiencuu table tr
+{
+	height: 40px;
+}
+.phai_nghiencuu ul li a{
+	color: black;
+	text-decoration: none;
+	font-size: 85%;
+}
+.phai_nghiencuu ul li{
+	border-bottom: 1px solid black;
+	padding: 0.3rem;
+
+}
+.hoptac_tho p{
+	font-size: 88%;
+}
+.hoptac_p_col8 p{
+	padding: 0;
+}
+.trai_hoptac{
+	width: 50%;
+}
+.phai_hoptac{
+	padding: 1rem;
+	
+}
+.table_hoptac td{
+	font-size: 100% !important;
+}
+.table_hoptac,.table_hoptac tr,.table_hoptac td{
+	border:1px solid black;
+	border-collapse: collapse;
+}

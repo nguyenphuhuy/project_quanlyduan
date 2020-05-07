@@ -1,0 +1,107 @@
+*{
+    margin:0;
+    padding:0;
+}
+ /* chinh css phan cot ben trai */
+
+
+.trangcon_wrapper .tronglinh {
+    margin-top:40px;
+    padding-top:20px; 
+ 
+}
+.trangcon_wrapper .body{
+    padding-bottom: 15px;
+    background-color:#efece8;
+
+}
+
+.trangcon_wrapper .body img {
+    padding:25px;
+
+
+}
+.trangcon_wrapper .head{
+    border-top:1px solid  rgb(241, 241, 239);
+    padding:15px;
+    text-align: justify;
+    background-color:#efece8;
+    
+    
+}
+ 
+.trangcon_wrapper .head h6{
+font-family:"Times New Roman";
+font-size:15px;
+word-spacing: -0.7px;
+}
+  
+.trangcon_wrapper .head p b{
+font-family:"Times New Roman", Times, serif;
+word-spacing:-2px;
+}
+
+.trangcon_wrapper .body h6{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    line-height: 1.7;
+    padding-left: 22px;
+
+}
+
+.trangcon_wrapper .tronglinh .body ul li{
+    font-family: 'Open Sans',sans-serif;
+    font-size: 12px;
+    line-height: 1.7;
+    font-weight: bolder;
+}
+.trangcon_wrapper ul{
+    padding:0 45px;
+}
+
+
+
+/* chinh CSS phan cot ben phai */
+.trangcon_wrapper .linhtinh2 div h5  a{
+    text-decoration: none;
+    color:#024282;  
+}
+.trangcon_wrapper .linhtinh2  div p{
+    color: #000;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 13px;
+    line-height: 1.7;
+}
+
+
+.trangcon_wrapper .main{
+    
+    background-color: rgb(241, 238, 234);
+ }
+.trangcon_wrapper .main h4{
+    
+     padding:20px 20px;
+ }
+.trangcon_wrapper .main p{
+     padding:0 30px;
+ }
+.trangcon_wrapper .main b a i {
+     padding:0 25px;
+ }
+
+.trangcon_wrapper .main1{
+    margin-top:35px;
+}
+
+.trangcon_wrapper .linhtinh3 p a{
+    text-decoration: none;
+    color:black;
+}
+.trangcon_wrapper .linhtinh3 p a:hover{
+    color: #aa914d;
+}
+
+.trangcon_wrapper .linhtinh1 img{
+    width: percent;
+    max-width: pixcel;
+}
